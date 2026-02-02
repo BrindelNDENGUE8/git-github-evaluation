@@ -1,3 +1,25 @@
 body {
-font-family: Arial, sans-serif;
+    /* Police principale */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+                 "Helvetica Neue", Arial, sans-serif;
+
+    /* Taille et hauteur de ligne pour une meilleure lisibilité */
+    font-size: 16px;
+    line-height: 1.5;
+
+    /* Couleur et fond par défaut */
+    color: #222;
+    background-color: #fff;
+
+    /* Lissage des polices pour un rendu plus net */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+h1, h2, h3, h4, h5, h6 {
+    /* Marges pour les titres */
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+
+    /* Couleur des titres */
+    color: #111;
 }
