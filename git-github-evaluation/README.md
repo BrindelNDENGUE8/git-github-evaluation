@@ -26,3 +26,11 @@ Ce projet a été réalisé dans le cadre d'une évaluation pratique visant à v
 * Utilisation exclusive de la ligne de commande.
 * Messages de commits clairs et explicites.
 * Dépôt GitHub configuré en mode Public.
+---
+
+## 💡 C'est quoi Git et GitHub ?
+
+* **Git** : C'est un système de **versioning** (VCS) qui fonctionne en local sur votre machine. Il permet de garder un historique complet de toutes les modifications apportées à un projet, de revenir en arrière en cas d'erreur et de travailler sur différentes versions (branches) simultanément.
+* **GitHub** : C'est une **plateforme d'hébergement** en ligne qui utilise Git. Elle permet de stocker vos dépôts Git à distance (dans le "cloud"), de faciliter la collaboration à plusieurs sur un même code et de partager vos projets avec le monde entier.
+
+---
